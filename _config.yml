@@ -20,7 +20,7 @@ title                    : "비트멕서의 블로그"
 title_separator          : "-"
 subtitle                 : "Tips and Tricks"
 name                     : "Bitmexer"
-description              : "비트멕스 사용법과 여러가지 정보들을 제공합니다. 비트멕스 가입하기 - https://www.bitmex.com/register/w3natT"
+description              : "비트멕스 사용법과 정보, 비트멕스 사용법, 비트멕스 정보, Bitmex 사용법과 정보, Bitmex 사용법, Bitmex "
 url                      : "https://Bitmex-usage.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Bitmexer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Bitmexer."
+  bio              : "비트멕스 가입하기 - https://www.bitmex.com/register/w3natT"
   location         : "Republic of Seychelles"
   email            : "bitmexusage@google.com"
   links:
