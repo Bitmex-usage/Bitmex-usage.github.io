@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Bitmex Usage"
+title                    : "비트멕서의 블로그"
 title_separator          : "-"
 subtitle                 : "Tips and Tricks"
 name                     : "Bitmexer"
-description              : "비트멕스 사용법과 여러가지 정보들을 제공합니다."
+description              : "비트멕스 사용법과 여러가지 정보들을 제공합니다. 비트멕스 가입하기 - https://www.bitmex.com/register/w3natT"
 url                      : "https://Bitmex-usage.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
